@@ -1,4 +1,4 @@
-# 🤖 machina-assesment
+# 🤖 machina-assessment
 
 There are many AI / LLM tools emerging, and the landscape is changing daily. My goal is to assess them for both personal and professional reasons. This is just my tiny perspective into tools I am working with, and some considerations about them.
 
