@@ -32,11 +32,11 @@ There are of course other types of tools, and tools useful in other applications
 
 ## Tools Covered
 
-- [Bard](./bard.md)
+- [Bard](./bard.md) 🚧
 - [ChatGPT](./chatgpt.md)
 - [Codeium](./codeium.md)
-- [CodeWhisperer](./codewhisperer.md)
-- [Copilot](./copilot.md)
+- [CodeWhisperer](./codewhisperer.md) 🚧
+- [Copilot](./copilot.md) 🚧
 - [Raycast](./raycast.md)
 
 ## Risks 😨
