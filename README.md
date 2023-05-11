@@ -28,11 +28,11 @@ Some are both, and both are very much like having a pair programmer that is just
 >
 > -- Garry Kasparov
 
-There are of course other types of types of tools, and tools useful in other applications; e.g. healthcare. Some tools provide very nice API's too, but we aren't going to touch any of that here; just the pair programming tools.
+There are of course other types of tools, and tools useful in other applications; e.g. healthcare. Some tools provide very nice API's too, but we aren't going to touch any of that here; just the pair programming tools.
 
 ## Tools Covered
 
-- [Bard](./bard)
+- [Bard](./bard.md)
 - [ChatGPT](./chatgpt.md)
 - [Codeium](./codeium.md)
 - [CodeWhisperer](./codewhisperer.md)
