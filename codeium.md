@@ -57,4 +57,3 @@ While trivial, these example are less than 10 keystrokes away. And they work.
 <p align="center"><img width="80%" src="./img/codeium/neovim-bubble3.png" alt="Neovim Bubble Sort" /></p>
 <p align="center"><img width="80%" src="./img/codeium/codium-merge1.png" alt="VS Codium Merge Sort" /></p>
 <p align="center"><img width="80%" src="./img/codeium/codium-merge2.png" alt="VS Codium Merge Sort" /></p>
-<p align="center"><img width="80%" src="./img/codeium/codium-merge3.png" alt="VS Codium Merge Sort" /></p>
