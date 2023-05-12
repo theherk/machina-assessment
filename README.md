@@ -41,8 +41,6 @@ There are of course other types of tools, and tools useful in other applications
 
 ## Risks 😨
 
-Since Codeium is both an autocomplete tool and a chat interface there are more varied risks. But is offers a fully self-hosted model, so those can be mitigated entirely if needed.
-
 ### Data Leakage 📤
 
 Each of the suggestion tools comes with some degree of risk, as they must send code to the API to retrieve a suggestion, but they have varying degrees of openness about how they select data for harvesting, so we'll take this one in each report.
