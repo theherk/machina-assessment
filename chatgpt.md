@@ -10,7 +10,7 @@ Have you been living under a rock? If so, [ChatGPT](https://chat.openai.com/) is
 
 ## Usage 🛠️
 
-Basically, given a "System Message" (context about who the bot should act as) and a prompt, a conversation is initiated. That's basically it. The tool can seemingly reason with you, is open to correction if called out on mistakes, can remember what it told you in the past, write code for you, takeover powergrids ensuring mass chaos around the world (ok, I hope not), debug code with stack traces, find bugs in snippets, etc. The thing is, nobody knows what all it can do, or on a deep level, how these LLM's work.
+Given a "System Message" (context about who the bot should act as) and a prompt, a conversation is initiated. The tool can seemingly reason with you, is open to correction if called out on mistakes, can remember what it told you in the past, write code for you, takeover powergrids ensuring mass chaos around the world (j/k), debug code with stack traces, find bugs in snippets, etc.
 
 One way aside from the chat interface to interact with GPT, and the other language models and API's provided by OpenAI, is to use the [Playground](https://platform.openai.com/playground). Here you can select the model, tuning, and set the system message explicitly.
 
@@ -60,11 +60,13 @@ Code review rejected. 🙅
 
 ## Benefits 🌟
 
-The benefits are beyond measure or comprehension. This is an extremely large model that can pass law exams [^2], has potential in healthcare diagnosis [^3], and apparently has better bedside manner than many doctors [^4].
+The benefits are beyond measure. This is an extremely large model that can pass law exams [^2], has potential in healthcare diagnosis [^3], and apparently has better bedside manner than many doctors [^4].
 
 You can absolutely ask it to:
 
 > Create a terraform module that creates two S3 buckets with bidirectional regional replication and global access enabled, that yields the bucket arn's and the replication rules as outputs.
+
+or:
 
 > Write a micronaut application that serves the following OpenAPI document...
 
